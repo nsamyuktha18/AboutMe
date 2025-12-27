@@ -35,8 +35,9 @@ Manual Testing, Quality Assurance Basics
 - Always curious and experimenting with new tech  
 - Coffee + Code = Productivity ☕💻  
 
----
 
-## 📈 GitHub Stats
-
-![Samyuktha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam180305&show_icons=true&theme=radical&hide_border=true)
+- I love **turning ideas into interactive designs** and functional web applications.  
+- I enjoy **learning new tools and technologies** to improve my skills every day.  
+- Curious and creative, I focus on **making digital experiences intuitive and engaging**.  
+- Strong interest in **UI/UX design** and building **accessible websites**.  
+- Believer in **continuous learning** and experimenting with new solutions.  
