@@ -26,7 +26,7 @@ Manual Testing, Quality Assurance Basics
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/samyuktha18)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyuktha18)  
 
 
 ## 🌟 Fun Facts
